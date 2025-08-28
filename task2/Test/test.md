@@ -1,5 +1,9 @@
 The ROC Curve
+
+
 ![alt text](image.png)
+
+
 The receiver operating characteristic (ROC) curve is another common tool
 used with binary classifiers. It is very similar to the precision/recall curve,
 but instead of plotting precision versus recall, the ROC curve plots the true
